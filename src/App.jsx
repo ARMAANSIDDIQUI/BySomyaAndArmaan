@@ -97,7 +97,7 @@ export default function App() {
       </section>
 
       {/* Contact button */}
-      <div className="flex justify-center mt-12">
+      <div className="flex justify-center pb-12 mt-12">
         <motion.button
           onClick={() => setContactOpen(true)}
           className="bg-gradient-to-r from-blue-500 to-indigo-600 text-white font-bold px-6 py-3 rounded-full shadow-lg"
