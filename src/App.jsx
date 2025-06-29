@@ -122,10 +122,10 @@ export default function App() {
         </motion.button>
       </div>
 
-      <div className="pb-16">
+{/*       <div className="pb-16">
         <QuotationTable />
       </div>
-
+ */}
       {/* Contact Modal */}
       {contactOpen && <ContactModal onClose={() => setContactOpen(false)} />}
     </div>
