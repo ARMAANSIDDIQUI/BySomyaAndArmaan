@@ -62,7 +62,7 @@ export default function App() {
           name="Somya Kaushik"
           role="UI/UX Designer & Frontend Developer"
           image="https://res.cloudinary.com/dnnmzxljv/image/upload/v1751220146/WhatsApp_Image_2025-06-29_at_17.07.42_ad5271ec_xkeamq.jpg"
-          email="somya@example.com"
+          email="somyakaushik0911@gmail.com"
           linkedin="https://www.linkedin.com/in/somya0911kaushik/"
           description="Creative UI/UX enthusiast blending visual storytelling with responsive front-end development using modern tools and design systems."
           skills={[
