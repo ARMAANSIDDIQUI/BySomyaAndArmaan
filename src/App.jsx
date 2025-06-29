@@ -61,7 +61,7 @@ export default function App() {
         <DevCard
           name="Somya Kaushik"
           role="UI/UX Designer & Frontend Developer"
-          image="https://res.cloudinary.com/dnnmzxljv/image/upload/v1751203797/WhatsApp_Image_2025-06-29_at_17.07.42_f9307a9e_quujlm.jpg"
+          image=""
           email="somya@example.com"
           linkedin="https://www.linkedin.com/in/somya0911kaushik/"
           description="Creative UI/UX enthusiast blending visual storytelling with responsive front-end development using modern tools and design systems."
